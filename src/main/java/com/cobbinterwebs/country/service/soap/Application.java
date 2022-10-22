@@ -1,4 +1,4 @@
-package com.example.producingwebservice;
+package com.cobbinterwebs.country.service.soap;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
